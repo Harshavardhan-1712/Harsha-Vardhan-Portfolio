@@ -1,10 +1,7 @@
-/* =========================================================
-   CONTENT — edit here to update projects, certs, and stack
-   ========================================================= */
+
 const DATA = {
-  leetcode: "https://leetcode.com/", // TODO: replace with your LeetCode handle URL
-  hackerrank: "https://www.hackerrank.com/", // TODO: replace with your HackerRank handle URL
-  resume: "#", // TODO: link to your hosted resume PDF
+  leetcode: "https://leetcode.com/u/Harsha17v/", 
+  resume: "https://drive.google.com/file/d/1-S3GW7wgMHuAus8Hs7dsH7l-Ffpv1f4U/view?usp=sharing", 
 
   typing: [
     "Building AI Applications",
